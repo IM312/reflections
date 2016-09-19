@@ -1,0 +1,3 @@
+Question:
+What happens when you initialize a repo? Why do you need to do it?
+<<reflections>>
