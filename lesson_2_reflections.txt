@@ -1,3 +1,8 @@
 Question:
 What happens when you initialize a repo? Why do you need to do it?
 <<reflections>>
+
+Question:
+How is the staging area different from the working directory and the repo? What value do you think  it offers?
+<<reflections>>
+
